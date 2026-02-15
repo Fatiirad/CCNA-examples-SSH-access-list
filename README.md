@@ -1,2 +1,2 @@
-# CCNA-examples-ssh
-چند  نمونه و مثال ترکیبی از دستوراتCCNA
+# SSH-access-list
+نمونه ای از اس اس اچ اکسس لیست در CCNA
